@@ -1,0 +1,39 @@
+1653735972734	geckodriver	INFO	Listening on 127.0.0.1:62422
+1653735975796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofile1wAVXb"
+1653735976762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofile1wAVXb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62423/devtools/browser/b7442aa3-af5d-4a10-a0e6-741ce961394f
+1653735978685	Marionette	INFO	Listening on port 62450
+Read port: 62450
+1653735978774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653736106920	Marionette	INFO	Stopped listening on port 62450
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofile2tHIW3"
+1653736019015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofile2tHIW3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51426/devtools/browser/726b5db6-4a17-4fc5-9218-fb782341cbac
+1653736020728	Marionette	INFO	Listening on port 51449
+Read port: 51449
+1653736020795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653736025280	Marionette	INFO	Stopped listening on port 51449
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653914324667	geckodriver	INFO	Listening on 127.0.0.1:59545
+1653914327724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofilekmAD0f"
+1653914328724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofilekmAD0f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59546/devtools/browser/0562e3bc-323b-4977-a461-f9f3ed16d4e3
+1653914330646	Marionette	INFO	Listening on port 59574
+Read port: 59574
+1653914330741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653914342918	geckodriver	INFO	Listening on 127.0.0.1:59624
+1653914345945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofile5o3M4z"
+1653914346611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mince_Garlic\\AppData\\Local\\Temp\\rust_mozprofile5o3M4z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59625/devtools/browser/0c4263d1-4961-49e5-bbac-a45b16e3a9c5
+1653914348303	Marionette	INFO	Listening on port 59645
+Read port: 59645
+1653914348580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653914353579	Marionette	INFO	Stopped listening on port 59645
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653914362482	geckodriver	INFO	Listening on 127.0.0.1:59700
